@@ -1,0 +1,53 @@
+site_name: Project Absence
+
+repo_url: https://github.com/ProjectAbsence/absence
+repo_name: ProjectAbsence/absence
+edit_uri: ""
+
+theme:
+  name: material
+  logo: assets/Absence-Light.png
+  favicon: assets/Absence-Purple.png
+  features:
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - toc.integrate
+
+extra_css:
+  - stylesheets/colors.css
+  - stylesheets/custom.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://go.krypton.ninja/discord
+      name: Krypton's Discord server
+    - icon: fontawesome/solid/globe
+      link: https://krypton.ninja
+      name: Krypton's website
+    - icon: fontawesome/brands/twitter
+      link: https://go.krypton.ninja/twitter
+      name: Krypton's Twitter account
+    - icon: fontawesome/solid/blog
+      link: https://go.krypton.ninja/tags/absence
+      name: Krypton's blog posts
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+copyright: Copyright &copy; 2022 Project Absence
+
+plugins:
+  - search
+plugins:
+  - social:
+      cards_color:
+        fill: "#9C84EF" 
+        text: "#FFFFFF"
