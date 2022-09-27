@@ -46,7 +46,6 @@ copyright: Copyright &copy; 2022 Project Absence
 
 plugins:
   - search
-plugins:
   - social:
       cards_color:
         fill: "#9C84EF" 
