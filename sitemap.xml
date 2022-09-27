@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>None</loc>
+         <loc>https://projectabsence.org/</loc>
          <lastmod>2022-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://projectabsence.org/changelogs/</loc>
          <lastmod>2022-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://projectabsence.org/donations/</loc>
          <lastmod>2022-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://projectabsence.org/installation/</loc>
          <lastmod>2022-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://projectabsence.org/installation/android/</loc>
          <lastmod>2022-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://projectabsence.org/installation/linux/</loc>
          <lastmod>2022-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://projectabsence.org/installation/macos/</loc>
          <lastmod>2022-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://projectabsence.org/installation/windows/</loc>
          <lastmod>2022-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://projectabsence.org/modules/</loc>
          <lastmod>2022-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://projectabsence.org/modules/HTTP/http.rest/</loc>
          <lastmod>2022-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://projectabsence.org/modules/HTTP/http.websockets/</loc>
          <lastmod>2022-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
